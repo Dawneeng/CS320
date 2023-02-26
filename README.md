@@ -1,2 +1,2 @@
-# CS320
+# CS305
 Course overview
